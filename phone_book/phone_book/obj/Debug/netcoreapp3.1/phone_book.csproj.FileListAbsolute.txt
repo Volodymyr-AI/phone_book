@@ -1,0 +1,13 @@
+/Users/vladimir/Projects/phone_book/phone_book/bin/Debug/netcoreapp3.1/phone_book.deps.json
+/Users/vladimir/Projects/phone_book/phone_book/bin/Debug/netcoreapp3.1/phone_book.runtimeconfig.json
+/Users/vladimir/Projects/phone_book/phone_book/bin/Debug/netcoreapp3.1/phone_book.runtimeconfig.dev.json
+/Users/vladimir/Projects/phone_book/phone_book/bin/Debug/netcoreapp3.1/phone_book.dll
+/Users/vladimir/Projects/phone_book/phone_book/bin/Debug/netcoreapp3.1/phone_book.pdb
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.csproj.AssemblyReference.cache
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.AssemblyInfoInputs.cache
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.AssemblyInfo.cs
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.csproj.CoreCompileInputs.cache
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.dll
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.pdb
+/Users/vladimir/Projects/phone_book/phone_book/obj/Debug/netcoreapp3.1/phone_book.genruntimeconfig.cache
